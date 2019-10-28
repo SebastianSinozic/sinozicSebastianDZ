@@ -1,0 +1,6 @@
+C:\Users\Eugen\source\repos\sinozicSebastianDZ\sinozicSebastianDZ\bin\Debug\sinozicSebastianDZ.exe.config
+C:\Users\Eugen\source\repos\sinozicSebastianDZ\sinozicSebastianDZ\bin\Debug\sinozicSebastianDZ.exe
+C:\Users\Eugen\source\repos\sinozicSebastianDZ\sinozicSebastianDZ\bin\Debug\sinozicSebastianDZ.pdb
+C:\Users\Eugen\source\repos\sinozicSebastianDZ\sinozicSebastianDZ\obj\Debug\sinozicSebastianDZ.csprojAssemblyReference.cache
+C:\Users\Eugen\source\repos\sinozicSebastianDZ\sinozicSebastianDZ\obj\Debug\sinozicSebastianDZ.exe
+C:\Users\Eugen\source\repos\sinozicSebastianDZ\sinozicSebastianDZ\obj\Debug\sinozicSebastianDZ.pdb
